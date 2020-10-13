@@ -1,7 +1,9 @@
 {
     "id": "01066",
     "name": {
-        "en": "Helnes Fyr"
+        "en": "Helnes Lighthouse",
+        "no": "Helnes Fyr"
+        
     },
     "country": "NO",
     "region": null,
