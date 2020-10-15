@@ -1,7 +1,9 @@
 {
     "id": "01209",
     "name": {
-        "en": "Orsta-Volda \/ Hovden"
+        "de": "Orsta-Volda Flughafen",
+        "en": "Orsta-Volda Airport",
+        "no": "Orsta-Volda Flughavn"
     },
     "country": "NO",
     "region": null,
