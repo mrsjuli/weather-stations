@@ -1,7 +1,9 @@
 {
     "id": "01210",
     "name": {
-        "en": "Alesund \/ Vigra"
+        "de": "Alesund Flughafen",
+        "en": "Alesund Airport",
+        "no": "Alesund Flughavn"
     },
     "country": "NO",
     "region": null,
