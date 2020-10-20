@@ -1,10 +1,10 @@
 {
     "id": "01329",
     "name": {
-        "en": "Kvamsoy \/ Steinstø"
+        "en": "Kvamsoy"
     },
     "country": "NO",
-    "region": null,
+    "region": "46",
     "identifiers": {
         "national": null,
         "wmo": "01329",
